@@ -1,3 +1,1 @@
-1. Calculate total compounded amount accrued after three years, given principal = 1L, rate = 12%.
-2. Find sin(x) and cos(x) using its taylor series to 4 terms. Compare 2 sinx cosx and sin(2x)
-3. Given two point A and B and a ratio m:n, find the point P that divides AB internally in the ratio m:n.
+q2: not enough comments

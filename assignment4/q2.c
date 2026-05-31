@@ -1,6 +1,3 @@
-#include <stdio.h>
-#define MAX_SIZE 1000
-
 int main(){
 	//declaring variables
 	int n;

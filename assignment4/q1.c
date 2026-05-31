@@ -1,6 +1,3 @@
-#include <stdio.h>
-#define MAX_SIZE 1000
-
 int main(){
 	//declaring variables and array
 	int n, i, j, x, y, gcd=0, max=0, temp = 0, max1, max2;
